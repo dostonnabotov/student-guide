@@ -1,0 +1,25 @@
+---
+title : Homepage
+layout : 'base.njk'
+---
+
+<aside>
+  <h2 id="table-of-contents">Table of Contents</h2>
+  <ul>
+    <li>
+      <a href="#table-of-contents">Table of Contents</a>
+    </li>
+    {% for post in collections.posts %}
+      <li>
+        <a href="#{{ post.data.id }}">{{ post.data.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+
+{%- for post in collections.posts | sortByOrder -%}
+  <article id={{ post.data.id }}>
+    <h2 id="{{ post.data.id }}">{{ post.data.title }}</h2>
+    {{ post.templateContent | safe }}
+  </article>
+{%- endfor -%}
