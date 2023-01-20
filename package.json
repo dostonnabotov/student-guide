@@ -1,7 +1,7 @@
 {
-  "name": "11ty-one-page-template",
+  "name": "student-guide",
   "version": "1.0.0",
-  "description": "11ty One Page Template with Sass",
+  "description": "An Opinionated Guideline for Students at Riga Technical University",
   "main": "index.html",
   "scripts": {
     "watch:sass": "sass --watch src/sass:dist/css",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dostonnabotov/11ty-one-page-template.git"
+    "url": "git+https://github.com/dostonnabotov/student-guide.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["students", "guide", "RTU"],
+  "author": "Doston Nabotov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dostonnabotov/11ty-one-page-template/issues"
+    "url": "https://github.com/dostonnabotov/student-guide/issues"
   },
-  "homepage": "https://github.com/dostonnabotov/11ty-one-page-template#readme",
+  "homepage": "https://github.com/dostonnabotov/student-guide#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "cssnano": "^5.1.14",
