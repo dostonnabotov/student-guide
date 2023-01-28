@@ -1,0 +1,11 @@
+{
+  "title": "Student Guide",
+  "url": "https://student-guide.netlify.app/",
+  "language": "en",
+  "description": "An Opinionated Guideline for Students at RTU",
+  "author": {
+    "name": "Doston Nabotov",
+    "email": "dostonnabotov@gmail.com",
+    "url": "https://github.com/dostonnabotov"
+  }
+}

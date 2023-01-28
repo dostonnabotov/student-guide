@@ -18,7 +18,11 @@
     "type": "git",
     "url": "git+https://github.com/dostonnabotov/student-guide.git"
   },
-  "keywords": ["students", "guide", "RTU"],
+  "keywords": [
+    "students",
+    "guide",
+    "RTU"
+  ],
   "author": "Doston Nabotov",
   "license": "ISC",
   "bugs": {
