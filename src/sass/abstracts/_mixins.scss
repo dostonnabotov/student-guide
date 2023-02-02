@@ -1,0 +1,10 @@
+@mixin flow($space: 1rem) {
+  & > * + * {
+    margin-top: $space;
+  }
+}
+
+@mixin wrapper($size: 60rem, $space: 1rem) {
+  width: min(100% - $space, $size);
+  margin-inline: auto;
+}

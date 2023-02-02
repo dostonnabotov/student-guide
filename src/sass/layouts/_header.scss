@@ -1,0 +1,13 @@
+.primary-header {
+  padding-block: 3rem;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  background-color: #121212;
+  color: #fff;
+}
+
+.primary-header > * {
+  margin-inline: auto;
+  width: fit-content;
+}

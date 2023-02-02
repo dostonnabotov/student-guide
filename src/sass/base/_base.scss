@@ -1,0 +1,65 @@
+@use "../abstracts" as *;
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  font-family: var(--ff-sans);
+  font-size: var(--fs-400);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--ff-serif);
+  max-width: 30ch;
+}
+
+h1 {
+  font-size: var(--fs-900);
+}
+
+h2 {
+  font-size: var(--fs-800);
+}
+
+h3 {
+  font-size: var(--fs-700);
+}
+
+p:not([class]) {
+  max-width: 70ch;
+}
+
+.wrapper {
+  @include wrapper;
+}
+
+.flow {
+  @include flow;
+}
+
+main {
+  padding-block: 4rem;
+}
+
+.articles {
+  @include flow(3rem);
+}
+
+.article {
+  @include flow(1rem);
+}
+
+.sr-only {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  -webkit-clip-path: inset(50%) !important;
+  clip-path: inset(50%) !important;
+  height: 1px !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+  white-space: nowrap !important;
+}
