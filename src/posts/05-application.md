@@ -15,5 +15,3 @@ When applying to RTU, you will need to submit the following documents:
 > Note: Make sure to focus on your grades in the last two years of high school, especially in Physics and Mathematics. Regardless of your chosen field, you will need to take these two subjects in your first year of study. And, RTU heavily focuses on these two subjects.
 
 You can read more about the entry requirements for Bachelor's programs [here](https://international.rtu.lv/entry-requirements-for-bachelor/).
-
-### Required Documents
