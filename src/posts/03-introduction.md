@@ -4,4 +4,8 @@ id: introduction
 order: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Vulputate sapien nec sagittis aliquam **malesuada bibendum**. Quis lectus nulla at volutpat. A lacus vestibulum sed arcu. Massa massa ultricies mi quis hendrerit dolor magna eget. Faucibus et molestie ac feugiat.
+Student Guide is an opinionated guide for students who are and will be studying at Riga Technical University.
+
+When I first arrived in Latvia, it was a bit difficult to get used to the new environment, especially when there was no on to guide me. I hope this guide will help you to get started with your studies at RTU, starting from application process to graduation.
+
+Well, since I haven't graduated yet, I can provide with what I know so far. I will keep updating this guide as I learn more.

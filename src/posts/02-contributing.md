@@ -4,10 +4,8 @@ id: contributing
 order: 2
 ---
 
-### Installation
+Student Guide is a free project that I maintain in my free time. Nevertheless, I'm always open to contributions from the community.
 
-Pulvinar sapien et ligula ullamcorper malesuada proin. Sit amet consectetur adipiscing elit ut aliquam. Facilisi cras fermentum odio eu feugiat pretium nibh ipsum. Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Pharetra convallis posuere morbi leo urna molestie at. Quis commodo odio aenean sed. Nascetur ridiculus mus mauris vitae ultricies leo integer.
+If you have any suggestions or found a bug, please [open an issue](https://github.com/dostonnabotov/student-guide/issues/new) on GitHub. It is much appreciated!
 
-### Configuration
-
-Quisque sagittis purus sit amet volutpat consequat mauris. Nibh ipsum consequat nisl vel pretium lectus quam id leo. Leo vel fringilla est ullamcorper eget nulla facilisi. Et molestie ac feugiat sed lectus vestibulum mattis. Dolor sed viverra ipsum nunc aliquet. Etiam sit amet nisl purus in mollis nunc sed id.
+Thank you for your support! 🙂
