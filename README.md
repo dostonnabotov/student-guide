@@ -1,6 +1,10 @@
-# 11ty One Page Layout Template
+# Student Guide
 
-This is a simple one page layout template, built with [11ty](https://www.11ty.dev/) and [Sass](https://sass-lang.com/)
+An opinionated guideline for students at Riga Technical University.
+
+> The site is in progress...
+
+Built with [11ty](https://www.11ty.dev/) and [Sass](https://sass-lang.com/)
 
 ## Table of Contents
 
